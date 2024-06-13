@@ -1,18 +1,18 @@
 const version = require("@whiskeysockets/baileys/package.json").version
 
 global.baileys = require('@whiskeysockets/baileys') 
-global.language = "id"
-global.nomerOwner = ["6281316643491"]
-global.ownerjid = "62838174215309@s.whatsapp.net"
-global.sig = "https://instagram.com/ehanzdhoanx"
-global.email = "ehanzdhoanx@gmail.com"
+global.language = "en"
+global.nomerOwner = ["94743747913"]
+global.ownerjid = "94743747913@s.whatsapp.net"
+global.sig = "https://instagram.com/zeekerdamiru"
+global.email = "damiruimo@gmail.com"
 global.runWith = "Panel"
 global.botName = "© нσѕнιησ вσт" 
 global.ownerName = "єнanz" 
 global.sessionName ="session"
 global.setmenu ="location" 
 global.docType = "docx"
-global.prefa = "!"
+global.prefa = "."
 global.fake = botName
 global.copyright = `Bot WhatsApp`
 global.baileysVersion = `Baileys ${version}`
@@ -23,19 +23,19 @@ global.packName = "нσѕнιησ вσт"
 global.authorName = "Created By єнanz"
 global.replyType = "mess"
 global.setwelcome = "type1"
-global.Dana = '6281316643491'
+global.Dana = '94743747913'
 global.gamewaktu = 60
 global.limitCount = 30
 global.Intervalmsg = 1000 //detik
 global.sgc = 'https://chat.whatsapp.com/Fguw4KxsP6qCBm9RfZvHOS'
-global.syt = 'https://www.youtube.com/@ehanzdhoanx552'
+global.syt = 'https://www.youtube.com/@techblur_inc'
 global.nobg = ['jVW2tQEAj2Qo7RD2mjcv99QU','Z9XYXF8LgFeszUF3a6u5PKbJ', 'yFPL4CQFi38fAWVhVQczyrBg']
 global.token = "13cc2eee-5315-4d84-b3c8-d5b05ce297c3"
 global.fileStackApi = "AVKHbeyXsT0G9IKI01qenz"  
 // OPSI PAIRING BY DARWIN
 global.usePairingCode = true // false untuk QR
 // ISI NOMOR BOTNYA DISINI
-global.pairingNumber = "6283877118785" // gunakan tanpa + dan spasi
+global.pairingNumber = "94743747913" // gunakan tanpa + dan spasi
 //Set Bot
 global.public = true
 global.baileysMd = true
@@ -44,9 +44,9 @@ global.multi = true
 global.autoblockcmd = false
 global.autoReport = true
 global.autoLevel = true
-global.autoSticker = false 
+global.autoSticker = true 
 global.Console = false
-global.autorespon = false
+global.autorespon = true
 global.autoblockcmd = false
 //Apikey kalo error daftar aje
 global.api = {
